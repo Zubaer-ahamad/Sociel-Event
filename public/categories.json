@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Film Screenings & Movie Nights",
+            "image_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs5h_Hy1dWfKRMmeEeXsdy1a_BzDS65k5kRm1aUN1f3g&s",
+            "description": "Experience cinematic wonders and storytelling at film screenings and cozy movie nights with friends and family."
+        },
+        {
+            "id": 2,
+            "title": "Concerts & Music Festivals",
+            "image_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCwdXtxMEkaznYaexPaJhx1VSQW2wMFEvukBOkNCrnOQ&s",
+            "description": "Experience electrifying performances and immerse yourself in the rhythm of live music at concerts and festivals."
+        },
+        {
+            "id": 3,
+            "title": "Sporting Events",
+            "image_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQin-2sxPXWj3BJZQKFhtCuCaNkVTj-b-Q6dTk3SiYQzQ&s",
+            "description": "Cheer for your favorite teams and athletes at thrilling sporting events, from football to basketball and beyond."
+        },
+        {
+            "id": 4,
+            "title": "Art Exhibitions",
+            "image_logo": "https://images.hindustantimes.com/img/2021/03/06/1600x900/pjimage_-_2021-03-06T192427.069_1615038899966_1615038907778.jpg",
+            "description": "Explore the vibrant world of art through exhibitions showcasing diverse artistic expressions and creativity."
+        },
+        {
+            "id": 5,
+            "title": "Cultural Celebrations",
+            "image_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpMWT7TzALrdbGrIgL3UjJmt6rydS24nD2_WzQbD-_g&s",
+            "description": "Immerse yourself in the rich tapestry of cultural celebrations, traditions, and festivities from around the world."
+        },
+        {
+            "id": 6,
+            "title": "Social Gatherings",
+            "image_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMaAJp102--hRcsUXhvgYIgx-4DZnv9XWQxH3Cb4ak0w&s",
+            "description": "Connect with friends and communities at social gatherings ranging from parties and meetups to networking events."
+        }
+    ]
+}

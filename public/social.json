@@ -1,0 +1,74 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "name": "Exclusive VIP Package",
+            "image": "https://www.fedex.com/content/dam/fedex/us-united-states/FedEx-Office/images/2020/Q4/table-settings-with-vip-card.jpg",
+            "price": "$500",
+            "description": "Indulge in the ultimate VIP experience. Includes premium seating, private chauffeur service, gourmet dining, exclusive after-party access, and personalized concierge service."
+        },
+        {
+            "id": 2,
+            "name": "Private Performance",
+            "image": "https://www.aleitevents.com/wp-content/uploads/2019/02/SomethingForever-227-scaled.jpg",
+            "price": "$1000",
+            "description": "Host your own private performance by renowned artists. Enjoy an intimate concert experience tailored to your preferences, complete with catering and VIP treatment."
+        },
+        {
+            "id": 3,
+            "name": "Celebrity Meet-and-Greet",
+            "image": "https://speakerexchangeagency.com/wp-content/uploads/2019/06/celebrity-meet-and-greet.jpeg",
+            "price": "$750",
+            "description": "Get up close and personal with your favorite celebrities. Enjoy exclusive access to a meet-and-greet session, including autographs, photo opportunities, and VIP perks."
+        },
+        {
+            "id": 4,
+            "name": "Luxury Accommodation Package",
+            "image": "https://www.cvent.com/sites/default/files/image/2018-07/luxury-hotel.jpg",
+            "price": "$1500",
+            "description": "Experience unparalleled luxury with our premium accommodation package. Stay in a five-star hotel suite, enjoy spa treatments, fine dining, and personalized butler service."
+        },
+        {
+            "id": 5,
+            "name": "Executive Lounge Access",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbYNIqAyuw7LjiziQFyzidh6W3__z22nMVqg&s",
+            "price": "$300",
+            "description": "Upgrade your experience with exclusive access to our executive lounge. Enjoy premium amenities, dedicated staff, and a luxurious environment away from the crowds."
+        },
+        {
+            "id": 6,
+            "name": "Luxury Dining Experience",
+            "image": "https://www.shutterstock.com/image-photo/gourmet-dining-experience-exquisite-dish-260nw-2398257379.jpg",
+            "price": "$400",
+            "description": "Savor exquisite cuisine in a private dining setting. Indulge in a multi-course gourmet meal curated by renowned chefs, paired with fine wines and impeccable service."
+        },
+        {
+            "id": 7,
+            "name": "Designer Fashion Show Tickets",
+            "image": "https://img.freepik.com/premium-vector/fashion-show-event-ticket-template_616632-1293.jpg",
+            "price": "$250",
+            "description": "Witness the latest trends on the runway with VIP tickets to our designer fashion show. Experience the glamour of haute couture and rub shoulders with industry insiders."
+        },
+        {
+            "id": 8,
+            "name": "Luxury Transportation Package",
+            "image": "https://mychauffeur.com/_next/static/media/normal.d88d78b6.webp",
+            "price": "$500",
+            "description": "Travel in style with our luxury transportation package. Enjoy chauffeur-driven rides in a fleet of luxury cars, complete with premium amenities and personalized service."
+        },
+        {
+            "id": 9,
+            "name": "Exclusive Art Exhibition Preview",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJFxk9_i1Tvc_GH1fe8bD0107A4Pxl5v4HToJnl88q6A&s",
+            "price": "$300",
+            "description": "Be among the first to view our exclusive art exhibition. Enjoy a private preview event with guided tours, artist meet-and-greets, and champagne receptions."
+        },
+        {
+            "id": 10,
+            "name": "Private Yacht Party",
+            "image": "https://clubbable.blob.core.windows.net/medias/Private-boat-parties?timestamp=637370773979016253",
+            "price": "$2000",
+            "description": "Set sail on a luxury yacht for an unforgettable party experience. Enjoy breathtaking views, gourmet catering, live entertainment, and personalized service on the open sea."
+        }
+    ]
+}
